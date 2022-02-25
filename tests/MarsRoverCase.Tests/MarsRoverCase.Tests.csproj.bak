@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <RepositoryUrl>https://github.com/mustafaalkan64/MarsRoverCase</RepositoryUrl>
+    <RepositoryUrl>https://github.com/sefacan/MarsRoverCase</RepositoryUrl>
     <RepositoryType>Git</RepositoryType>
 
     <TargetFramework>net5.0</TargetFramework>
