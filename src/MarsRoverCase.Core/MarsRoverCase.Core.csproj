@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<RepositoryUrl>https://github.com/mustafaalkan64/MarsRoverCase</RepositoryUrl>
+		<RepositoryType>Git</RepositoryType>
+
+		<TargetFramework>net5.0</TargetFramework>
+		<RunAnalyzersDuringBuild>false</RunAnalyzersDuringBuild>
+		<RunAnalyzersDuringLiveAnalysis>false</RunAnalyzersDuringLiveAnalysis>
+		<SatelliteResourceLanguages>en</SatelliteResourceLanguages>
+		<RunAnalyzers>false</RunAnalyzers>
+	</PropertyGroup>
+
+</Project>
