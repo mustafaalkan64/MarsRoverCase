@@ -55,7 +55,3 @@ Expected Output
 
 5 1 E
 
-## Build Status
-| Build server    | Platform       | Status      |
-|-----------------|----------------|-------------|
-| Github Actions  | ubuntu-latest            |![.NET CI](https://github.com/sefacan/MarsRoverCase/workflows/.NET%20CI/badge.svg) |
